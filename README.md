@@ -10,3 +10,12 @@ This project allows users to input ingredients they have and receive a list of r
 - Fetch recipes dynamically using Node.js API.
 - Beautiful and responsive UI with React.
 - Uses a third-party **recipe API** to fetch real recipes.
+
+
+To run this app-
+- Install Node
+- go to backend folder(cd backend).
+- run this command: node server.js
+- go to the main directory(cd ..)
+- then go to frontend folder(cd frontend).
+- run this command: npm start
